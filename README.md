@@ -1,1 +1,4 @@
 # face-detection-and-recognition
+Here in this code I have shown how to built a face recogniton system using opencv and face_recognition module using few lines of code, I will perform all the steps from data collection to its final output via image encoding and face location techniques. I have tried to recognize the face of a person (Hrithik Roshan) given its training image and an another image of Ratan_tata after that I compared the two different images of a same person (Hrithik Roshan 1 and Hrithik Roshan 2) and the two images with completely different persons (Hrithik Roshan 1 and Ratan Tata). What I found is that my model was recognising Hrithik Roshan preety well and was able to differenciate between two completely different images based on 'face distance' metric.
+
+Rest of the information you can find in my code, I have explained everything there.
